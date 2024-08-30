@@ -1,0 +1,29 @@
+|24-10745|08/15/2024|3950 Constitutionality of State Statutes||Brown v. Abney|Northern District of Texas, Dallas|
+|Private Civil Federal|Private||
+|ORIG_CRT|0539|3|3:24-CV-1109||05/07/2024|https://ecf.txnd.uscourts.gov/cgi-bin/DktRpt.pl?caseNumber=3:24-CV-1109||
+|ORIG_PER|Originating Judge|Jane|J.|Boyle||U.S. District Judge|
+|ORIG_DAT|||08/06/2024||08/14/2024||
+|PARTY|Madeline Nicole Brown||
+
+                     Plaintiff - Appellant
+
+|
+|ATTORNEY|Madeline|Nicole|Brown|||Madelinebrown0822@gmail.com||623 E. 3rd Street|||Males For Females, L.L.C.||340-882-1437|Burkburnett|TX|76354||[NTC Pro Se]||||
+|PARTY|Daniel Eugene Abney||
+
+                     Defendant - Appellee
+
+|
+|ATTORNEY||||||||||||||||||||||
+|CAPTION|Madeline Nicole Brown, 
+
+                     Plaintiff - Appellant
+
+v.
+
+Daniel Eugene Abney, 
+
+                     Defendant - Appellee|
+|ENTRY|08/15/2024|PRIVATE CIVIL FEDERAL CASE docketed. NOA filed by Appellant Madeline Nicole Brown [24-10745] (MBC)|https://ecf.ca5.uscourts.gov/docs1/00507263291|
+|ENTRY|08/22/2024|CASE CAPTION updated. Additional appeal filed. [6] NOA filed by Appellant Madeline Nicole Brown. [6] [24-10745] (CAG)|https://ecf.ca5.uscourts.gov/docs1/00507270156|
+

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6YUWSsvbLU4_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">What is the Records Lifecycle?</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="What_is_the_Records_Lifecycle?_ORG">
+    <organization identifier="What_is_the_Records_Lifecycle?_ORG">
+      <title>What is the Records Lifecycle?</title>
+      <item identifier="L1-001_SCO" isvisible="true" identifierref="__6YUWSsvbLU4_course_id_RES">
+        <title>What is the Records Lifecycle?</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6YUWSsvbLU4_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6DlgPSPE1v6_80_DX1920_DY1920_CX1268_CY849.jpg" />
+      <file href="mobile/6lwuDlsQOFT_80_DX194_DY194_CX152_CY141.png" />
+      <file href="mobile/61ArI4dT8GH_80_DX1024_DY1024_CX512_CY460.png" />
+      <file href="mobile/5aAhjFpcpAa_80_DX1318_DY1318_CX1036_CY692.jpg" />
+      <file href="story_content/6LHbaK2I115_44100_48_0.mp3" />
+      <file href="story_content/5gQdOMnsiL3_captions.js" />
+      <file href="mobile/6RHjQN7xvNC_80_B20_RDCDCDC_DX1920_DY1920_CX1511_CY1133.jpg" />
+      <file href="story_content/5tDb487wFCx_44100_48_0.mp3" />
+      <file href="story_content/5eJQk65KARd_captions.js" />
+      <file href="story_content/5unVEUsCy3Y_44100_48_0.mp3" />
+      <file href="story_content/6FbvQ0Jg2E4_captions.js" />
+      <file href="story_content/5s0pNlQ63og_44100_48_0.mp3" />
+      <file href="story_content/6gDldeBYaPu_captions.js" />
+      <file href="mobile/5xyARIy4lBM_X_80_DX1938_DY1938_CX1525_CY1015.jpg" />
+      <file href="mobile/61ArI4dT8GH_80_DX1024_DY1024_CX151_CY136.png" />
+      <file href="story_content/6Uy3eXeBbl6_44100_48_0.mp3" />
+      <file href="story_content/6J2ZRGIoNFG_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5lyZdFyQfP1.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c0RRQ0afwP.js" />
+      <file href="html5/data/js/5kay8ocZYHR.js" />
+      <file href="html5/data/js/5ueKbFKbQOV.js" />
+      <file href="html5/data/js/6if2B3XmDhK.js" />
+      <file href="html5/data/js/6IrJaOfAyPA.js" />
+      <file href="html5/data/js/6Us4EUIIY6I.js" />
+      <file href="html5/data/js/6W5oJVlZlzs.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
