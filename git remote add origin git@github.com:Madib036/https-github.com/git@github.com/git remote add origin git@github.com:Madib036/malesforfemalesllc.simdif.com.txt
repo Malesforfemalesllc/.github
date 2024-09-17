@@ -1,8 +1,7 @@
-$ORIGIN malesforfemalesllc.simdif.com.
-@	3600	IN	SOA	ns51.cloudns.net. support.cloudns.net. 2024082702 7200 1800 1209600 3600
-microsoft365.com	3600	IN	TXT	"hlpxjz7nuu7uulgmgvnk26th67axim4o6s254ylxykbuuudxu57a.mx-verification.google.com"
-
-@	3600	IN	NS	ns51.cloudns.net.
-@	3600	IN	NS	ns52.cloudns.net.
-@	3600	IN	NS	ns53.cloudns.net.
-@	3600	IN	NS	ns54.cloudns.net.
+$ ORIGIN malesforfemalesllc.simdif.com
+@	3600	IN	SOA	ns51.cloudns.net
+"hlpxjz7nuu7uulgmgvnk26th67axim4o6s254ylxykbuuudxu57a"
+@	3600	IN	NS	ns51.cloudns.net"hlpxjz7nuu7uulgmgvnk26th67axim4o6s254ylxykbuuudxu57a"
+@	3600	IN	NS	ns52.cloudns.net"hlpxjz7nuu7uulgmgvnk26th67axim4o6s254ylxykbuuudxu57a"
+@	3600	IN	NS	ns53.cloudns.net"hlpxjz7nuu7uulgmgvnk26th67axim4o6s254ylxykbuuudxu57a"
+@	3600	IN	NS	ns54.cloudns.net"hlpxjz7nuu7uulgmgvnk26th67axim4o6s254ylxykbuuudxu57a"
