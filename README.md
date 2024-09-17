@@ -9,3 +9,4 @@ git push -u origin github-challenge-Males-For-Females-llc-org.malesforfemalesllc
 # git branch github-challenge-Males-For-Females-llc-org.malesforfemalesllc.net
 # git remote add origin git@github.com:Madib036/https-github.com-Madib036-probable-space-system.git
 # git push -u origin github-challenge-Males-For-Females-llc-org.malesforfemalesllc.net
+@males-for-females-llc.slack.com
