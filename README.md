@@ -1,4 +1,4 @@
-@github.com/git/slack.males-for-females-llc.git
+@github.slack.males-for-females-llc.dev
 # git remote add origin git@github.com:Madib036/https-github.com-Madib036-probable-space-system.git
 git branch -M github-challenge-Males-For-Females-llc-org.malesforfemalesllc.net
 git push -u origin github-challenge-Males-For-Females-llc-org.malesforfemalesllc.net
